@@ -1,0 +1,44 @@
+{
+	"name": "Le prochain Jour de Pi",
+	"questions":
+		[
+			{
+				"feedback": "",
+				"answers":
+					[
+						{
+							"feedback": "",
+							"text": "le Dimanche 14Juillet 2019.",
+							"penalty": 0,
+							"usecase":0,"fraction": 0,
+							"hidden": 0,
+							"type":"shortanswerquestionanswer"
+						},
+						{
+							"feedback": "",
+							"text": "le Dimanche 8Mars 2020.",
+							"penalty": 0,
+							"usecase": 0,
+							"fraction": 0,
+							"hidden": 0,
+							"type": "shortanswerquestionanswer"
+						},
+						{
+							"feedback": "",
+							"text": "le Samedi 14 Mars2020.",
+							"penalty": 0,
+							"usecase": 0,
+							"fraction": 100,
+							"hidden": 0,
+							"type": "shortanswerquestionanswer"
+						}
+					],
+				"questiontext": "A travers le monde , leprochain Pi day ou jour de Pi tombera :",
+				"usecase": 0,
+				"hidden": 0,
+				"type": "shortanswer",
+				"name": "Le prochain Jour de Pi"
+			}
+		],
+	"description": "Adaptation du format GIFT Moodle en JSON"
+}
