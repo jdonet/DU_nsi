@@ -1,0 +1,81 @@
+{
+     "name": "le quizz",
+     "questions": 
+         [
+{
+     "feedback": "fb",
+     "answers": 
+         [
+{
+     "feedback": "fb",
+     "text": "le Dimanche 14 Juillet 2019.",
+     "penalty": 0,
+     "usecase": 0, 
+     "fraction": 0,
+     "hidden": 0,
+     "type": "shortanswerquestionanswer",
+     "correct": "0"
+},{
+     "feedback": "fb",
+     "text": "le Jeudi",
+     "penalty": 0,
+     "usecase": 0, 
+     "fraction": 0,
+     "hidden": 0,
+     "type": "shortanswerqr",
+     "correct": "1"
+},{
+     "feedback": "fb",
+     "text": "le Vendredi",
+     "penalty": 0,
+     "usecase": 0, 
+     "fraction": 0,
+     "hidden": 0,
+     "type": "shortanswerqr",
+     "correct": "0"
+}         ],
+     "questiontext": "A travers le monde , leprochain Pi day ou jour de Pi tombera :",
+     "usecase": 0, 
+     "hidden": 0,
+     "type": "shortanswer",
+     "name": "Le prochain Jour de Pi"
+},{
+     "feedback": "fb",
+     "answers": 
+         [
+{
+     "feedback": "fb",
+     "text": "oui",
+     "penalty": 0,
+     "usecase": 0, 
+     "fraction": 0,
+     "hidden": 0,
+     "type": "shortanswerquestionanswer",
+     "correct": "0"
+},{
+     "feedback": "fb",
+     "text": "non",
+     "penalty": 0,
+     "usecase": 0, 
+     "fraction": 0,
+     "hidden": 0,
+     "type": "shortanswerquestionanswer",
+     "correct": "0"
+},{
+     "feedback": "fb",
+     "text": "probablement",
+     "penalty": 0,
+     "usecase": 0, 
+     "fraction": 0,
+     "hidden": 0,
+     "type": "shortanswerqr",
+     "correct": "1"
+}         ],
+     "questiontext": "J'aime les frites",
+     "usecase": 0, 
+     "hidden": 0,
+     "type": "shortanswer",
+     "name": "J'aime les frites"
+}         ],
+     "description": "la description"
+}
